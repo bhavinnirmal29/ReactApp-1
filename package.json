@@ -1,0 +1,24 @@
+{
+  "name": "reactapp1",
+  "version": "1.0.0",
+  "description": "my first app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"npm run lite",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavinnirmal29/ReactApp-1.git"
+  },
+  "author": "bhavin nirmal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhavinnirmal29/ReactApp-1/issues"
+  },
+  "homepage": "https://github.com/bhavinnirmal29/ReactApp-1#readme",
+  "devDependencies": {
+    "lite-server": "^2.0.1"
+  }
+}
